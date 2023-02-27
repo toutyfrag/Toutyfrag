@@ -2,8 +2,6 @@
 
 Hi there, welcome to my GitHub profile! My name is Stevens Bougault and I'm a software developer with a passion for learning and building new things. I initially started out in a completely different field, but decided to make a career change and pursue my interest in coding. I've been teaching myself how to code for some time now, and have been fortunate enough to work as a software developer for the past 18 months.
 
-In my current role, I've gained experience working with various technologies and programming languages, but I'm always looking to learn more and stay up-to-date with modern developments in the field. I'm particularly interested in web development, and I'm excited to continue growing my skills in these areas.
-
 When I'm not coding, you can usually find me playing Call of Duty, practicing Thai boxing, or experimenting in the kitchen with new recipes. I believe that staying active and trying new things is essential for personal growth, and I bring that same mindset to my work as a software developer.
 
 Thanks for stopping by my profile, and feel free to reach out if you have any questions or just want to chat!
