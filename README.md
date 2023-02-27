@@ -15,8 +15,7 @@ Thanks for stopping by my profile, and feel free to reach out if you have any qu
 [![Gmail Badge](https://img.shields.io/badge/bougault.stevens@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:bougault.stevens@gmail.com)](mailto:bougault.stevens@gmail.com)
 
 
-### Languages and Tools
-[![Linkedin Badge](https://img.shields.io/badge/Stevens-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+## 🛠️ Languages and Tools
 
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
