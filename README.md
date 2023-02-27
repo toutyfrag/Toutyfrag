@@ -1,4 +1,4 @@
-🥷🏽 Hi there
+## 🥷🏽 Hi there
 
 Hi there, welcome to my GitHub profile! My name is Stevens Bougault and I'm a software developer with a passion for learning and building new things. I initially started out in a completely different field, but decided to make a career change and pursue my interest in coding. I've been teaching myself how to code for some time now, and have been fortunate enough to work as a software developer for the past 18 months.
 
